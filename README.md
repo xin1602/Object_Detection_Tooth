@@ -1,6 +1,6 @@
 ## 牙齒病徵辨識系統
 
-#### 研究主題名稱：基於卷積神經網路與YOLOv8物件偵測辨識根尖病灶合併牙周流失 Recognizing apical lesion and peri-endo combined lesion based on convolutional neural network and YOLOv8 object detection
+### 研究主題名稱：基於卷積神經網路與YOLOv8物件偵測辨識根尖病灶合併牙周流失 Recognizing apical lesion and peri-endo combined lesion based on convolutional neural network and YOLOv8 object detection
 
 
 
@@ -47,7 +47,7 @@
 
 
 <div align=center>
-<img src='README_IMAGE/各種CNN模型組合之牙齒影像.png' width="400"> 
+<img src='README_IMAGE/各種CNN模型組合之牙齒影像.png' width="600"> 
 </div> 
 
 <br> 
@@ -56,7 +56,7 @@
 使用YOLOv8進行根尖片的讀取並直接進行物件偵測，將圖像中的數顆牙齒進行分類，從而優化訓練過程的繁瑣性，省略了切割單顆牙齒和訓練集分類的步驟。除了物件偵測之外，YOLOv8具有三大值得採用的優勢：新卷積層（與YOLOv5不同）、無錨檢測（Anchor Free Detection）和定向邊界框（Oriented Bounding Box）。特別是定向邊界框是決定性的依據，能夠精確框出影像中不同方向和角度的牙齒，避免邊框重疊的情況，從而提高檢測和分類的準確率。預測結果如圖。
 
 <div align=center>
-<img src='README_IMAGE/YOLO物件偵測.png' width="600"> 
+<img src='README_IMAGE/YOLO物件偵測.png' width="400"> 
 </div> 
 此部分已經進行過試驗，表格呈現了在不同預處理下的訓練成果。經過高斯高通濾波和自適應直方圖均衡化的原圖，為目前最平衡且最優的版本。三個分類的mAP50能夠穩定在0.9左右，而總體的mAP50達到0.899，準確率為88.46%。
 
