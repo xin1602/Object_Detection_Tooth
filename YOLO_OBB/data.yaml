@@ -1,0 +1,8 @@
+path: ../datasets/roboflow
+
+train: /content/datasets/tooth_data_v1_0308_GRAY_AHE_01-1/train/images
+val: /content/datasets/tooth_data_v1_0308_GRAY_AHE_01-1/valid/images
+test: /content/datasets/tooth_data_v1_0308_GRAY_AHE_01-1/test/images
+
+names: 
+  0: tooth

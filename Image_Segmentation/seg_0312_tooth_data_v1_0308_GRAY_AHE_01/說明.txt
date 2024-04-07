@@ -1,0 +1,4 @@
+"F:\Lab\share\dataset\two_label_data_combine"
+
+https://colab.research.google.com/drive/1IMNucGMPLZRJNelGbMoOiFB8hHeU0OVd#scrollTo=DciAljLycqHw
+https://app.roboflow.com/lab-niabe/tooth_data_v1_0308_gray_ahe_01/3

@@ -1,0 +1,24 @@
+實作resnet50_1127_01 
+(D:\lxh\models\1127_resnet50_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：86.90%
+
+
+實際測試resnet50_1127_01的模型(D:\lxh\models\test.m)
+
+18 2
+6 22
+
+
+準確率（Accuracy）
+83.33%
+精確度（Precision）
+90.00%
+召回率（Recall）
+75.00%
+F1分數
+81.82%
+

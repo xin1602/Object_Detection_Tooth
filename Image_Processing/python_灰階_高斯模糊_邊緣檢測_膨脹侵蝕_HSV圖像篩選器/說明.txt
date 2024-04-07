@@ -1,0 +1,13 @@
+參考：【youtube】【python】opencv 2小時初學者教學 https://www.youtube.com/watch?v=xjrykYpaBBM
+
+【tutorial3.py】
+# 灰度圖像
+# 高斯模糊
+#  邊緣檢測
+#  膨脹
+#  侵蝕
+
+【tutorial5.py】
+# HSV顏色空間的圖像篩選器
+
+

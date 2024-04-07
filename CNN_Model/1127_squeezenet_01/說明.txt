@@ -1,0 +1,25 @@
+實作squeezenet_1127_01
+(D:\lxh\models\1127_squeezenet_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：88.69%
+
+
+實際測試squeezenet_1127_01的模型(D:\lxh\models\test.m)
+
+Confusion Matrix
+21 0
+3 24
+
+
+準確率（Accuracy）
+93.75%
+精確度（Precision）
+100.00%
+召回率（Recall）
+87.50%
+F1分數
+93.33%
+

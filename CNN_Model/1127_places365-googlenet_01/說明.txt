@@ -1,0 +1,26 @@
+實作places365-googlenet_1127_01
+places365-googlenet
+(D:\lxh\models\1127_places365-googlenet_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：88.10%
+
+
+實際測試places365-googlenet_1127_01的模型(D:\lxh\models\test.m)
+
+Confusion Matrix
+24 0
+0 24
+
+
+準確率（Accuracy）
+100.00%
+精確度（Precision）
+100.00%
+召回率（Recall）
+100.00%
+F1分數
+100.00%
+

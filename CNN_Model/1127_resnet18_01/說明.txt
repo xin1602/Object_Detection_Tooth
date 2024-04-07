@@ -1,0 +1,25 @@
+實作resnet18_1127_01 
+(D:\lxh\models\1127_resnet18_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：85.71%
+
+
+實際測試resnet18_1127_01的模型(D:\lxh\models\test.m)
+
+Confusion Matrix
+13 1
+11 23
+
+
+準確率（Accuracy）
+75.00%
+精確度（Precision）
+92.86%
+召回率（Recall）
+54.17%
+F1分數
+68.42%
+

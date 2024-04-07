@@ -1,0 +1,7 @@
+def myfunc(x):
+    if x%2==0:
+        print('even')
+    else:
+        print('odd')
+
+myfunc(1)

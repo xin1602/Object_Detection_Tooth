@@ -1,0 +1,26 @@
+實作darknet-19_1127_01
+1127_darknet-19_01
+(D:\lxh\models\1127_darknet-19_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：82.74%
+
+
+實際測試darknet-19_1127_01的模型(D:\lxh\models\test.m)
+
+Confusion Matrix
+15 1
+9 23
+
+
+準確率（Accuracy）
+79.17%
+精確度（Precision）
+93.75%
+召回率（Recall）
+62.50%
+F1分數
+75.00%
+

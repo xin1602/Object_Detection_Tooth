@@ -1,0 +1,24 @@
+實作alexnet_1127_01 
+(D:\lxh\models\1127_alexnet_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：89.88%
+
+實際測試alexnet_1127_01的模型(D:\lxh\models\test.m)
+
+18 0
+6 24
+
+
+準確率（Accuracy）
+87.50%
+精確度（Precision）
+100.00%
+召回率（Recall）
+75.00%
+F1分數
+85.71%
+
+

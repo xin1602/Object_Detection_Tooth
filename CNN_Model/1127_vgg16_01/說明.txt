@@ -1,0 +1,25 @@
+實作vgg16_1127_01
+(D:\lxh\models\1127_vgg16_01)
+
+InitialLearningRate=0.00006
+MaxEpochs=100
+
+validation accuracy：92.86%
+
+
+實際測試vgg16_1127_01的模型(D:\lxh\models\test.m)
+
+Confusion Matrix
+24 1
+0 23
+
+
+準確率（Accuracy）
+97.92%
+精確度（Precision）
+96.00%
+召回率（Recall）
+100.00%
+F1分數
+97.96%
+
