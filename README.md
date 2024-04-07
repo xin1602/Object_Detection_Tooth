@@ -78,5 +78,5 @@
 - 「下載結果」：用於下載病徵檢測的結果。
 
 <div align=center>
-<img src='README_IMAGE/GUI.png' width="800"> 
+<img src='README_IMAGE/GUI.png' width="750"> 
 </div> 
